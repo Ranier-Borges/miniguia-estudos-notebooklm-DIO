@@ -148,3 +148,6 @@ Para benchmarking
 
 🏁 Conclusão
 Este repositório consolida o processo de discovery, desde a curadoria de fontes até a engenharia de prompts e o miniguia final. Ele serve como base para estudos futuros e para a construção de um produto de dados que gere impacto real na área de Crédito Pessoal.
+
+#📘 Link do NotebookLM Criado: 
+https://notebooklm.google.com/notebook/51c51519-cf5f-4e1b-98d2-5f98f648362c 
